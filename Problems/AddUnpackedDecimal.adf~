@@ -1,0 +1,10 @@
+# Assembler debug file for MCU 8051 IDE v1.4.9
+# Used assembler: MCU 8051 IDE
+# Date: 09/23/2024
+FBB67EA33FF5920D504DF2F8EA7A252D "D:/Assembly Language/Problems/AddUnpackedDecimal.asm" 
+0 2 256 117 80 40
+0 3 259 117 81 18
+0 4 262 229 80
+0 5 264 37 81
+0 6 266 212
+0 7 267 128 254

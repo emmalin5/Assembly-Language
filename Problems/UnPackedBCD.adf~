@@ -1,0 +1,15 @@
+# Assembler debug file for MCU 8051 IDE v1.4.9
+# Used assembler: MCU 8051 IDE
+# Date: 09/23/2024
+F75E7DC63964225FD2A7D205D144460C "D:/Assembly Language/Problems/UnPackedBCD.asm" 
+0 3 0 116 255
+0 4 2 120 32
+0 5 4 121 2
+0 8 6 117 240 10
+0 9 9 132
+0 11 10 166 240
+0 12 12 8
+0 13 13 217 247
+0 15 15 84 15
+0 16 17 246
+0 17 18 128 254

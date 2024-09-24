@@ -1,0 +1,21 @@
+ORG 0000H
+MOV A,#0DCH
+MOV B,#0FEH
+CLR C
+SUBB A,#34H
+MOV R0,A
+
+MOV A,B
+SUBB A,#12H
+
+MOV 21H,A
+MOV A,R0
+MOV 22H,A
+
+JNC NO_BORROW      ; If no borrow, skip the next instruction
+INC A   
+
+
+NO_BORROW:
+MOV 00H, A 
+END

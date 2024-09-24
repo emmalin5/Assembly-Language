@@ -1,0 +1,12 @@
+# Assembler debug file for MCU 8051 IDE v1.4.9
+# Used assembler: MCU 8051 IDE
+# Date: 08/22/2024
+86BB7AE9F59CCDA50CD514CE3907A43D "transfer.asm" 
+0 2 0 120 112
+0 3 2 121 96
+0 4 4 122 5
+0 7 6 230
+0 8 7 247
+0 9 8 8
+0 10 9 9
+0 11 10 218 250
